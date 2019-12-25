@@ -47,7 +47,6 @@ def swap_case(s):
             finalCombination = finalCombination + x.upper()
     print(finalCombination)
 
-def count_substring(string, sub_string):
     
 
 
